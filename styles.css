@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Nunito', sans-serif;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  #title {
+    color: #272929;
+  }
+  
+  #chart {
+    width: 750px;
+  }
+  
+  #tooltip {
+    color: #fff;
+    background-color: #2a2c2c;
+    border: solid, 10px, #564bb7;
+  }
